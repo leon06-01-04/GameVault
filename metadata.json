@@ -1,0 +1,7 @@
+{
+  "name": "GameVault - Library Tracker",
+  "description": "A comprehensive game library tracker to manage your collection, play status, and ratings, featuring AI-powered game details.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
